@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/message-queue-example.iml" filepath="$PROJECT_DIR$/message-queue-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-queue-example-receiver/message-queue-example-receiver.iml" filepath="$PROJECT_DIR$/message-queue-example-receiver/message-queue-example-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-queue-example-sender/message-queue-example-sender.iml" filepath="$PROJECT_DIR$/message-queue-example-sender/message-queue-example-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-queue-example-support-service/message-queue-example-support-service.iml" filepath="$PROJECT_DIR$/message-queue-example-support-service/message-queue-example-support-service.iml" />
+    </modules>
+  </component>
+</project>
